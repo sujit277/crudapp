@@ -1,0 +1,4 @@
+{
+    "/apis/app.js": "/apis/app.js.js?needsToken=false&addsToken=sub:access",
+    "/apis/dbservice.js"  : "/apis/dbService.js.js?needsToken=false&addsToken=sub:access"
+}
